@@ -1,1 +1,1 @@
-# japantravelmap
+# japantravelmap.github.io
